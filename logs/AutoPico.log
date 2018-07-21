@@ -1,0 +1,32 @@
+18:19:09:761 2015.07.22 AutoPico 14.0.1.0
+Official Site: 
+http://forums.mydigitallife.info/threads/49108-KMSpico-Official-Thread
+Time Start: 22.07.2015 18:19:09
+
+18:19:09:764 Checking Internet Connection...
+18:19:09:833 Internet Connection Detected
+18:19:09:837 Synchronizing Time...
+18:19:09:909 Windows Detected: Windows 7 Ultimate : Ultimate : 6.1 : 7601.18869
+18:19:09:916 Using host: 127.217.155.212:1688
+18:19:09:939 Opening Firewall Port...
+18:19:10:042 Opening Firewall App...
+18:19:10:164 KMSEmulator Port: 1688
+18:19:10:185 KMSEmulator running port: 1688
+18:19:10:205 Office 2016 Skipped
+18:19:10:207 Loading OEM Key Dumper...
+18:19:10:217 Office 2013 Skipped
+18:19:10:219 Office 2010 Skipped
+18:19:10:219 None MSDM table found
+18:19:10:741 Time synchronized
+18:19:10:801 Found Windows Products: 1
+18:19:10:810 Name: Windows(R) 7, Ultimate edition
+Description: Windows Operating System - Windows(R) 7, OEM_SLP channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: HYRR2
+
+18:19:10:813 Version Windows Skipped
+18:19:10:815 Closing Firewall Port...
+18:19:10:885 Closing Firewall App...
+18:19:10:973 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+18:19:10:982 Time Finish: 22.07.2015 18:19:10

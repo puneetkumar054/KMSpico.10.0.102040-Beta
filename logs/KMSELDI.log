@@ -1,0 +1,43 @@
+18:18:58:983 2015.07.22 KMS GUI ELDI 35.0.1.0
+Official Site: 
+http://forums.mydigitallife.info/threads/49108-KMSpico-Official-Thread
+Windows Detected: Windows 7 Ultimate : Ultimate : 6.1 : 7601.18869
+
+18:18:58:997 Using host: 127.56.15.160:1688
+18:18:59:001 Time Start: 22.07.2015 18:18:56
+18:18:59:333 Checking Internet Connection...
+18:18:59:715 Internet Connection Detected
+18:19:00:351 Windows Detected: Windows 7 Ultimate : Ultimate : 6.1 : 7601.18869
+18:18:59:722 Synchronizing Time...
+18:19:00:449 Opening Firewall Port...
+18:19:00:351 Using host: 127.56.15.160:1688
+18:18:57:132 Time synchronized
+18:18:59:927 Opening Firewall App...
+18:19:00:658 KMSEmulator Port: 1688
+18:19:00:672 Making tokens backup...
+18:19:00:681 KMSEmulator running port: 1688
+18:19:00:681 Taking backup of: C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\SoftwareProtectionPlatform C:\ProgramData\Microsoft\OfficeSoftwareProtectionPlatform
+18:19:01:327 Backuping Product Keys...
+18:19:01:376 Get Registry : SOFTWARE\Microsoft\Windows NT\CurrentVersion:DigitalProductId
+18:19:01:383 Key Found: -HYRR2
+18:19:01:662 Product Keys Saved
+18:19:01:662 Backup made in: C:\Program Files\KMSpico\TokensBackup
+18:19:01:729 Office 2010 Skipped
+18:19:01:734 Office 2013 Skipped
+18:19:01:744 Office 2016 Skipped
+18:19:01:743 Loading OEM Key Dumper...
+18:19:01:747 None MSDM table found
+18:19:09:108 Found Windows Products: 1
+18:19:09:111 Name: Windows(R) 7, Ultimate edition
+Description: Windows Operating System - Windows(R) 7, OEM_SLP channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: HYRR2
+
+18:19:09:113 Version Windows Skipped
+18:19:09:125 Closing Firewall Port...
+18:19:09:260 Closing Firewall App...
+18:19:09:327 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+18:19:09:341 Time Finish: 22.07.2015 18:19:09
+18:19:09:342 Total Time: 12 seconds
+18:19:09:346 Client listener shut down
